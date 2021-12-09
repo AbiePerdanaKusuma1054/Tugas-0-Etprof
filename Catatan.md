@@ -1,3 +1,13 @@
+# ETIKA PROFESI
+
+### ETIKA
+
+Etika  adalah cabang utama filsafat yang mempelajari nilai atau kualitas yang menjadi studi mengenai standar dan penilaian moral. Etika mencakup analisis dan penerapan konsep seperti benar, salah, baik, buruk, dan tanggung jawab. Etika terbagi menjadi tiga bagian utama: meta-etika (studi konsep etika), etika normatif (studi penentuan nilai etika), dan etika terapan (studi penggunaan nilai-nilai etika).
+
+### PROFESI
+
+Profesi adalah pekerjaan yang dilakukan sebagai kegiatan pokok untuk menghasilkan nafkah hidup dan yang mengandalkan suatu keahlian. Berdasarkan pengertian tersebut dapat dijelaskan bahwa profesi dalah keterampilan seseorang dalam suatu pekerjaan utama yang diperoleh dari jalur pendidikan atau pengalaman dan dilaksanakan secara kontinu yang merupakan sumber utama untuk mencari nafkah. Ada yang mengatakan bahwa profesi adalah “jabatan seseorang walau profesi tersebut tidak bersifat komersial”.Seseorang yang memiliki suatu profesi tertentu, disebut profesional. Walaupun begitu, istilah profesional juga digunakan untuk suatu aktivitas yang menerima bayaran, sebagai lawan kata dari amatir. Contohnya adalah petinju profesional menerima bayaran untuk pertandingan tinju yang dilakukannya, sementara olahraga.
+     
 ###   📫 Pengertian Etika Profesi
 
 Secara umum, pengertian etika profesi adalah suatu sikap etis yang dimiliki seorang profesional 
